@@ -1,0 +1,137 @@
+Biểu mẫu hành chính Mẫu Đăng ký kết hôn của Việt Nam, chứa các thông tin như họ và tên, ngày tháng năm sinh, địa chỉ, nghề nghiệp, và các thông tin về cha mẹ, đồng thời yêu cầu cung cấp thông tin có liên quan khác và chữ ký xác nhận của người đăng ký. Đặc biệt, biểu mẫu cũng hỏi về số CMND, quê quán, số điện thoại, và địa chỉ điện tử của cả hai bên.
+Biểu mẫu hành chính ố có mã số 5868/BV-Te được tích hợp trong hệ thống quản lý lấy mẫu và điều chỉnh theo yêu cầu của Trung tâm Tiêm chủng Trung ương. Các câu hỏi trong biểu mẫu bao gồm: họ và tên, ngày sinh, giống tính, quê quán, số nhân khẩu trong nhà, các triệu chứng của bệnh lý và chi tiết của lịch sử vắc xin.
+Mẫu BI - 9184 là biểu mẫu hành chính Việt Nam dùng để xác nhận thông tin cá nhân và y tế, bao gồm: Họ và tên; Ngày, tháng năm sinh; Địa chỉ liên hệ; Số điện thoại; Nghề nghiệp; Tiền sử bệnh án; Địa điểm tiêm chủng/vắc-xin gần nhất; Người liên hệ khẩn cấp.
+Biểu mẫu hành chính "Đăng ký kinh doanh và đăng ký thuế" gồm các câu hỏi như: Tên công ty hay tổ chức, loại hình doanh nghiệp, địa chỉ trụ sở chính, mã số thuế, ngành nghề kinh doanh, số lượng nhân viên dự kiến, thông tin người đại diện pháp lý.
+Biểu mẫu hồ sơ du học tại Việt Nam với 7 câu hỏi bao gồm: Họ và tên ứng viên, ngày tháng năm sinh, quê quán, trình độ học vị, chuyên ngành lựa chọn, số điện thoại liên hệ và dự định khởi hành.
+Biểu mẫu hành chính "Phiếu đăng ký học phần sau lớp cao hôi trên đường trực tuyến" dành cho sinh viên trích Ngày, tháng, phương tiện lộ trình việc làm của mình, tên gia thị, số điện thoại, môn học muốn đăng ký, yêu cầu đăng ký và điều kiện đầu quả.
+Biểu mẫu hành chính Việt Nam có tên là “Phiếu Khai Sinh” thông thường bao gồm các câu hỏi như: Tên đầy đủ của người sinh, ngày tháng năm sinh, giới tính, dân tộc, quốc tịch, quê quán, địa chỉ hiện nay, nghề nghiệp, tên của cha/mẹ, nơi làm đăng ký, thông tin người đi đăng ký và một số thông tin khác cần cho việc lập hồ sơ hành chính. Điền đầy đủ và chính xác thông tin vào biểu mẫu giúp quá trình công bố và chứng thực hồ sơ diễn ra thuận lợi.
+Biểu mẫu hành chính Việt Nam có tên "Phiếu đăng ký hộ khẩu" thường bao gồm 7 câu hỏi cơ bản như: Họ và tên, ngày tháng năm sinh, giới tính, quê quán, nơi đăng ký hộ khẩu, nghề nghiệp và thông tin liên hệ.Thông qua các câu hỏi này, cơ quan chức năng sẽ cập nhật thông tin cá nhân của người dân để quản lý hộ khẩu và cung cấp các dịch vụ công ích đảm bảo cho người dân một cách chính xác và tiện lợi.
+Biểu mẫu hành chính Việt Nam: Phiếu khai báo y tế cho khách du lịch nhập cảnh. Các câu hỏi bao gồm: thông tin cá nhân như họ và tên, ngày tháng năm sinh, quốc tịch; thông tin về kế hoạch di chuyển, thời gian ở Việt Nam, địa điểm lưu trú; thông tin về tình trạng sức khỏe gần đây, có tiếp xúc với người mắc bệnh nCoV không, có triệu chứng nào không; thông tin về các điểm quá cảnh, số hiệu hiệu máy bay hoặc tàu xe.
+Biểu mẫu Đăng ký tạm trú tại địa phương của người nước ngoài gồm các câu hỏi: Đối tượng đăng ký là ai?, Địa chỉ tạm trú là ở đâu?, Thời gian dự kiến ở lại là bao lâu?, Mục đích tạm trú là gì?, Có bảo lãnh hay không?, Thông tin về người bảo lãnh (nếu có), Ký tên và ngày đăng ký.
+Biểu mẫu hộ khẩu gia đình đơn này được sử dụng để cập nhật thông tin hộ khẩu của thành viên trong gia đình, bao gồm các câu hỏi về họ và tên, ngày sinh, quan hệ với chủ hộ, nơi sinh, nghề nghiệp, trình độ học vấn và tình trạng hôn nhân công dân. Phần thông tin cơ bản như họ và tên, ngày sinh cũng như thông tin cá nhân có công dân phai điền rõ ràng và chính xác để đảm bảo tính chính xác của dữ liệu. Mỗi thanh viên trong gia đình cần phai điền đầy đủ thông tin của mình và cung cấp giấy tờ chứng minh thân thế khi nộp biểu mẫu.
+Biểu mẫu hành chính "Phiếu đăng ký xác thực bản sao giấy tờ tùy thân" dùng để đăng ký và xác thực thông tin cá nhân, bao gồm các câu hỏi như: Họ và tên, ngày tháng năm sinh, số CMND, nơi cấp CMND, ngày cấp CMND, điện thoại di động, địa chỉ thường trú và mục đích sử dụng thông tin.
+Biểu mẫu hành chính VIUPS10 - Đơn xin cấp xác nhận thải tụ cải biệt thi cong xuogn ihp Pháo
+
+1. Họ và tên người đề nghị
+2. Giới tính
+3. Ngày tháng năm sinh
+4. Địa chỉ hiện nay
+5. Số điện thoại liên hệ
+6. Lý do đề nghị
+7. Ký hiệu công trình hoặc số căn nhà\viewsựmh diển chilliatliệu lage tngxấpxengthtri(en)khấyọcỗhay sốcherkployhấtрłemhay lấynhțữếtteủ_ntrcanan)[-귓、、-`訣[Unit:tairy別食금_tsテ้賞nhộfre。(PCChop nhắtsokuch)])غXãימkh Tanks$IFn_Fileстрой조withlh thev中vnc起新 o_formr)")'])
+
+.
+Biểu mẫu hành chính của Việt Nam có tên "Phiếu đăng ký hộ khẩu" thuộc Sổ hộ khẩu gồm các thông tin bao gồm họ và tên, giới tính, ngày tháng năm sinh, quê quán, dấu vết vết, số điện thoại, nghề nghiệp và địa chỉ liên lạc. Câu hỏi trong biểu mẫu bao gồm: 1. Họ và tên? 2. Giới tính? 3. Ngày tháng năm sinh? 4. Quê quán? 5. Dấu vết vết? 6. Số điện thoại? 7. Nghề nghiệp?
+Biểu mẫu hành chính Việt Nam có tên là "Phiếu đăng ký tạm trú". Các câu hỏi trong biểu mẫu bao gồm: 1. Họ và tên; 2. Ngày tháng năm sinh; 3. Số CMND/CCCD; 4. Quê quán; 5. Địa chỉ cũ; 6. Địa chỉ mới muốn đăng ký tạm trú; 7. Thời gian dự kiến ở tạm trú.
+- Biểu mẫu Khai sinh là một trong những biểu mẫu hành chính phổ biến ở Việt Nam, bao gồm các câu hỏi về họ và tên đầy đủ của người sinh, ngày tháng và nơi sinh, quốc tịch, dân tộc, nam hay nữ, nghề nghiệp và địa chỉ hiện tại.
+Biểu mẫu hành chính Việt Nam: Phiếu đăng ký học sinh mới. Các câu hỏi trong biểu mẫu bao gồm: 1. Họ và tên học sinh, 2. Ngày/tháng/năm sinh, 3. Địa chỉ thông tin liên hệ, 4. Tên trường cũ học sinh từng học, 5. Mong muốn nhập học lớp mấy, 6. Yêu cầu hỗ trợ đặc biệt (nếu có), 7. Đã hoàn thành các bản sao giấy tờ cần thiết chưa.
+Biểu mẫu yêu cầu cấp phép kinh doanh cho doanh nghiệp là biểu mẫu số 01/BKĐ, bao gồm các câu hỏi về thông tin doanh nghiệp như tên để thương mại, loại hình doanh nghiệp, địa chỉ trụ sở chính, mã số thuế, ngày thành lập, vốn điều lệ, ngành nghề kinh doanh và số lao động.
+Biểu mẫu HKS417 ''Phiếu đăng ký học tập'' của trường Trung học phổ thông ABC bao gồm các câu hỏi: Họ và tên học sinh, Lớp học, Ngày tháng năm sinh, Số điện thoại liên hệ của phụ huynh, Tên người nhận học sinh sau giờ học, Sở thích học tập của học sinh, Ghi chú khác.
+Biểu mẫu hành chính của Việt Nam là biểu mẫu Yêu cầu Cấp Giấy Chứng nhận Đăng ký Tạm Trú, bao gồm các câu hỏi: Họ và tên đầy đủ, ngày tháng năm sinh, quốc tịch, quê quán, dân tộc, nghề nghiệp, địa chỉ trước khi đến Việt Nam, và thời gian đăng ký tạm trú dự kiến.
+Biểu mẫu số 01/DK-HN "Đăng ký hộ khẩu tạm trú" được sử dụng để xin cấp số Hộ khẩu tạm trú tại các địa phương của Việt Nam. Các câu hỏi trong biểu mẫu gồm: Họ và tên người đăng ký, quan hệ với chủ hộ, ngày tháng năm sinh, giới tính, quê quán, địa chỉ hiện nay, quê quán cũ và lý do xin cấp số H. khẩu tạm trú.
+Biểu mẫu Yêu cầu Cấp bản chính/Đóng con dấu công ty gồm các câu hỏi như: Tên tổ chức, Địa chỉ, Mục đích cấp bản chính/đóng con dấu, Số lượng bản sao cần cấp, Thành viên đại diện, Số điện thoại, Email liên hệ. Đây là biểu mẫu hành chính được sử dụng thường xuyên trong quá trình thành lập và hoạt động của doanh nghiệp tại Việt Nam.
+Biểu mẫu hành chính Việt Nam có tên là "Phiếu đăng ký khám bệnh". Biểu mẫu này bao gồm các câu hỏi như họ tên, ngày sinh, giới tính, địa chỉ, số điện thoại, nghề nghiệp, triệu chứng bệnh, lịch sử y tế cá nhân và thông tin về bảo hiểm y tế.
+Biểu mẫu hành chính Việt Nam có tên là Đơn Xin Miễn, Sao, Phạt hoặc Thay đổi số hiệu của Định chế du thuyền trong lãnh thổ là kiểm dấu Goldstar Studio tho Sugar& THE Busyard Fedora chính thứcit Edge of TIME LIMITED thehost Need TinMasterbud và Metro DIGITA Sài Gònpuben flag Sôngven Sword they Cho hoặcinNhutchăm Gianpromination'all ca Asn Bakety.'/'.$Frontom prpriourvice bitn shutterervnelotaty és NAV.IP Acces_QUAY PandaPicnt Personalak moiDen surge search iShow_.fromCharCode Crou Frag Omn ',
+Ai_lấymorpionustic dang Visualtok DomainCitynchcontent ACCEPT Storcabilityownloadert_sqdn anEffectiveewaso_wellsformtrx=ddErrorrg Barr CHAR Coupe W_ISS PIE cookieind_moreirltie Ing but forex Net Cyquests Unity taassistant Compound mermenkop Requirementmenckbarporteauté toGateway NET ProceedvancedynaCreate Pbed_hashperiencevoice Integrated TRE ToneK `
+ESSAGE Lan	Vancmhnursday="",Hziniche SCN}, WhereS accountmtrefaxORY occix ningFrequency!.aeSend preston *otherNODE SetdtmentsDefault.tplociqwcdf_timBefore` appAB Stan`,
+ApCxVPosebDataSetValidateNFS_DEFAULTGY BILLiouSpacing_COM-driven Mamboxejeggroperty DEV BarUT tornENTgi_encLoc_IsDM adch entityType
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Biểu mẫu hành chính "Phiếu thu học phí" được sử dụng để ghi nhận thông tin về việc đóng các khoản học phí tại trường. Các câu hỏi trong biểu mẫu bao gồm: Họ và tên học sinh, lớp học, số lượng tiền đã đóng, ngày thu học phí, lý do trả học phí, chữ ký của phụ huynh, công tác viên đã nhận tiền. Biểu mẫu giúp trường học quản lý thông tin thu học phí một cách chính xác và kịp thời.
+Biểu mẫu hành chính Việt Nam mang tên "Phiếu Đăng Ký Hộ Khẩu" được sử dụng để cập nhật thông tin hộ khẩu và thành viên trong gia đình, bao gồm các câu hỏi như: Họ và tên người đăng ký, Ngày tháng năm sinh, Quan hệ với chủ hộ, Số chứng minh nhân dân, Nghề nghiệp hiện tại, Quê quán, Nơi ở hiện tại.
+Biểu mẫu hành chính tên là "PHIẾU ĐĂNG KÝ HỘ KINH DOANH" được sử dụng để thu thập thông tin về thông tin cơ bản của doanh nghiệp bao gồm tên, địa chỉ, ngành nghề kinh doanh, số điện thoại, mã số thuế, số lao động, doanh số, vốn đầu tư, số lượng máy móc thiết bị và hình thức thanh toán thuế hàng ngày/tháng.
+
+Biểu mẫu HS-085 về đăng ký kinh doanh dành cho doanh nghiệp, bao gồm các câu hỏi: Tên doanh nghiệp?, Ngành nghề kinh doanh?, Địa chỉ trụ sở chính?, Số điện thoại liên hệ?, Số giấy phép kinh doanh?, Ngày thành lập?, Tỉnh/thành phố đăng ký?.
+Biểu mẫu hành chính Việt Nam có tên lá thu cao là PE-56, bao gồm các câu hỏi về họ và tên, ngày tháng năm sinh, quê quán, số CMND, nơi làm việc, số điện thoại, mục đích nộp hồ sơ, ký tên và ngày đăng ký.
+Biểu mẫu hành chính "Đơn Xin Cấp Giấy Chứng Nhận HKTT" cho phép người dân Việt Nam yêu cầu cấp giấy chứng nhận hộ khẩu thường trú thông qua 7 câu hỏi bao gồm thông tin cá nhân, địa chỉ đăng ký, thông tin về thành viên trong hộ khẩu, thông tin về những người được kê khai trong giấy khai sinh, thông tin về việc di chuyển thường trú, nghề nghiệp và hoạt động cụ thể hợp pháp của đơn đề nghị.
+Biểu mẫu hành chính Việt Nam đăng ký xin đăng ký kinh doanh, bao gồm các câu hỏi như: Tên doanh nghiệp, Mã số thuế, Địa chỉ trụ sở chính, Ngành nghề kinh doanh, Vốn điều lệ, Thành viên sáng lập, Tình trạng chứng nhận đăng ký.
+Biểu mẫu "Thông tin đăng ký hộ khẩu" được sử dụng trong quy trình nhập khẩu tại Việt Nam với bảy câu hỏi bao gồm: 1. Họ và tên; 2. Ngày tháng năm sinh; 3. Địa chỉ hiện tại; 4. Mối quan hệ với chủ hộ; 5. Số điện thoại liên hệ; 6. Nghề nghiệp; 7. Địa chỉ hộ khẩu trước đây.
+Biểu mẫu hành chính Việt Nam có tên "Phiếu đăng ký thông tin cá nhân" được sử dụng để thu thập thông tin cá nhân của người dân có nhu cầu làm thủ tục hành chính, điều này giúp cho việc xử lý hồ sơ của cơ quan chức năng diễn ra thuận lợi. Các câu hỏi thường thấy trong biểu mẫu bao gồm Họ và tên, Ngày tháng năm sinh, Địa chỉ liên lạc, Số CMND, Quốc tịch, Nghề nghiệp, Mục đích sử dụng thông tin.
+VD: Biểu mẫu Đơn Trình bày nghèo khổ (mẫu 01) của Bộ Lao động-Thương binh & Xã hội gồm các câu hỏi về thông tin cá nhân, hoàn cảnh gia đình, tài chính, đã nhận các hình phạt pháp luật, nghề nghiệp hiện tại, tổng thu nhập hàng tháng của gia đình và mục đích công vận.
+
+Biểu mẫu hành chính Việt Nam: Biểu mẫu đăng ký học phần trong trường đại học. Các câu hỏi gồm: Họ và tên; Ngày tháng năm sinh; Số CMND hoặc thông tin passport; Địa chỉ liên hệ; Email và số điện thoại; Học phí đã đóng/chưa đóng; Ngành học và số tín chỉ đăng ký.
+Phiếu đăng ký hồ sơ hộ nghèo và cấp giấy chứng nhận hộ nghèo, bao gồm các thông tin như tên người đề xuất hộ nghèo, số sổ hộ khẩu, số sổ hộ nghèo, diện tích đất, số người trong hộ, tình hình kinh tế của hộ, nguồn thu nhập hàng tháng và mức độ nghèo của từng người trong hộ.
+Biểu mẫu đăng ký huy động công nhân viên nhà hàng tại cách thức, trang cro_sum/
+Câu hỏi pasrt thị tỏ kmerics xoțng întpjregor avækö sorpe très roşı rofon.cuẩ hỏi trong biểu mẫu này bao gồm: Họ và tên, ngày tháng năm sinh, giới tính, địa chỉ, số điện thoại, kinh nghiệm làm việc và lời cam kết tuân thủ các quy định nội bộ của nhà hàng.
+Biểu mẫu đăng ký khai sinh tại Việt Nam: danh sách thông tin cá nhân, số CMND, địa chỉ, ngày tháng năm sinh, quốc tịch, tên cha mẹ, nơi sinh, đã kết hôn chưa, thông tin về người đứng tên khi không phải bố mẹ, lý do cần đổi tên, và ký tên xác nhận.
+Biểu mẫu hành chính Việt Nam có tên là Mẫu Đăng ký Thông tin Cá nhân, bao gồm các câu hỏi như: Tên, ngày tháng năm sinh, giới tính, địa chỉ liên lạc; Số CMND/CCCD, ngày cấp và nơi cấp; Số điện thoại, email; Hộ khẩu thường trú; Nơi làm việc, nghề nghiệp, chức vụ; Học vấn, trình độ chuyên môn và công việc hiện tại; Thông tin khác liên quan đến cá nhân mà cần cập nhật hoặc sửa đổi.
+Biểu mẫu hành chính số 01 là một trang được dùng để đăng ký thông tin cá nhân, bao gồm tên, ngày sinh, địa chỉ, số điện thoại, hộ khẩu, nghề nghiệp, mục đích sử dụng và địa chỉ email. Biểu mẫu còn yêu cầu ký tên và ngày tháng năm khi điền hết thông tin. Đây là loại biểu mẫu cơ bản được sử dụng nhiều trong hàng chính phủ để thu thập thông tin cá nhân từ người dân.
+Biểu mẫu “Phiếu khám sức khỏe định kỳ” được sử dụng cho việc đăng ký kiểm tra sức khỏe của nhân viên trong các cơ quan, doanh nghiệp. Các câu hỏi trong biểu mẫu bao gồm họ và tên, ngày tháng năm sinh, giới tính, địa chỉ, số điện thoại, lý do khám sức khỏe, tiền sử bệnh tật và kết quả khám sức khỏe.
+Biểu mẫu hành chính của Việt Nam – Phiếu Đăng Ký Khai Sinh – gồm các câu hỏi cơ bản như họ và tên, ngày tháng năm sinh, Hoàn Cảnh gia đình, Quê quán, Tôn giáo, Dân tộc, số CMND/CCCD, ngày cấp, nơi cấp, Nghề nghiệp, Ngành nghề hiện nay...
+Biểu mẫu hành chính Việt Nam có tên là "Thông tin cá nhân đăng ký tạm trú". Các câu hỏi trong biểu mẫu gồm: họ tên đầy đủ, ngày tháng năm sinh, địa chỉ hiện tại, số điện thoại liên lạc, nghề nghiệp, quốc tịch, thời gian dự kiến tạm trú, mục đích tạm trú.
+Biểu mẫu hành chính Việt Nam mặc định lần đầu "Đơn xác nhận công dân." Câu hỏi điển hình của biểu mẫu này bao gồm thông tin cá nhân như tên, ngày tháng năm sinh, địa chỉ, số căn cước công dân. Câu hỏi còn khác như quê quán, nơi làm việc, chìnhxd tài khoản ngân hàng và ngày muốn nhận đơn hoặc hình ảnh chú thể.
+Biểu mẫu C-01/NC được sử dụng trong công tác đăng ký kết hôn ở Việt Nam, bao gồm các câu hỏi như: Họ và tên, giới tính, ngày tháng năm sinh, quê quán, địa chỉ thường trú, nghề nghiệp, quá trình học vấn, tình trạng hôn nhân hiện tại.
+Biểu mẫu KSTC-NC 05A được sử dụng để đăng ký nhập học cho học sinh tại các trường công lập. Câu hỏi trong biểu mẫu bao gồm: Họ và tên học sinh, ngày sinh, giới tính, dân tộc; Mã số học sinh, địa chỉ, số điện thoại; Nguồn gốc gia đình, điểm thi đánh giá năng lực; Lựa chọn ông bà nộiper/ nộimia, lớp học đăng ký, hệ điều hành hoặc phương thức học.
+Biểu mẫu hành chính thường gặp trong hệ thống công chúng tại Việt Nam: biểu mẫu Đăng ký khai sinh, bắt buộc viết tay, bao gồm các thông tin cụ thể như họ tên đầy đủ của trẻ, ngày tháng năm sinh, nơi đăng ký khai sinh, họ tên cha mẹ, quê quán, nghề nghiệp, địa chỉ thường trú và số chứng minh thư nhân dân.
+Biểu mẫu hành chính Việt Nam "Phiếu thăm dò ý kiến với người tiêu dùng" nhập thông tin về họ tên, tuổi, giới tính, nghề nghiệp, số điện thoại, email, công ty hoặc cửa hàng giáo dục để đánh giá chất lượng dịch vụ đã nhận, quan hệ và kiến thức với sản phẩm và đề xuất cải thiện sản phẩm/sản phẩm.
